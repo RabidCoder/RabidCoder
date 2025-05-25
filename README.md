@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there! 👋 I'm RabidCoder
 
-<!--
-**RabidCoder/RabidCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Python backend developer in training  
+☕ Fueled by coffee and bugs 🐞  
+🚀 Currently mastering Django & FastAPI, one commit at a time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm up to
+
+- Sharpening backend skills with real projects  
+- Building APIs that just work  
+- Learning daily to break the Fourth Wall of coding
+
+---
+
+## Skills & Tools
+
+- Python 🐍 | Django | FastAPI  
+- REST APIs & databases  
+- Git & GitHub  
+- Linux basics  
+
+---
+
+*“Breaking the Fourth Wall or How I Will Become a Developer” — my journey in progress*
